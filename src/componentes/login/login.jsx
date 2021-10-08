@@ -15,7 +15,7 @@ class Login extends Component {
           <img className="mb-4" src={Logo} alt="" width="72" height="57" />
           <h1 className="h3 mb-3 fw-normal">Please sign in</h1>
 
-          <div className="form-floating">
+          <div className="form-floating ">
             <input
               type="email"
               className="form-control"
